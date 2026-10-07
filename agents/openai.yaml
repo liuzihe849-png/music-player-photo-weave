@@ -1,0 +1,4 @@
+interface:
+  display_name: "音乐播放器穿插照片"
+  short_description: "真实人物穿过音乐窗口，手包遮挡控件，下半身透过毛玻璃"
+  default_prompt: "使用 $music-player-photo-weave 将我的照片做成音乐播放器穿插图；先出一张预览，保留人物和原场景，歌名和歌手按我提供的文字排版。"

@@ -1,0 +1,17 @@
+{
+  "role": "style_reference_only",
+  "author": "理智画",
+  "github": "liuzihe849-png",
+  "not_source_identity": true,
+  "publication_authorized": true,
+  "visual_acceptance": "preview; user aesthetic approval and post-download retest remain separate",
+  "images": [
+    {
+      "path": "assets/reference-original.png",
+      "sha256": "7b34575a07d39fa06773d140422e365fb7989abdc0c8b2253f38bb7dfd862f0e",
+      "origin": "author workflow original sample",
+      "limitations": "修正过的播放器样片；新的照片需重新选择遮挡区域，右臂后置不是所有照片的固定要求。"
+    }
+  ],
+  "minimum_visual_signature": "Integrated tall player: rounded outer frame, clear near-square upper window, contiguous background-derived lower frost. Native white UI, transport group centered on panel. Selective head/hand/bag occlusion based on NEW source; lower-body behind frost. Title and artist are requested inputs, not reference defaults."
+}
